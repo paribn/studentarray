@@ -1,0 +1,15 @@
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\bin\Debug\net6.0\ProjectStudents.exe
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\bin\Debug\net6.0\ProjectStudents.deps.json
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\bin\Debug\net6.0\ProjectStudents.runtimeconfig.json
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\bin\Debug\net6.0\ProjectStudents.dll
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\bin\Debug\net6.0\ProjectStudents.pdb
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.csproj.AssemblyReference.cache
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.AssemblyInfoInputs.cache
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.AssemblyInfo.cs
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.csproj.CoreCompileInputs.cache
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.dll
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\refint\ProjectStudents.dll
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.pdb
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ProjectStudents.genruntimeconfig.cache
+C:\Users\Rovsen Novruzov\Downloads\ProjectStudents\ProjectStudents\obj\Debug\net6.0\ref\ProjectStudents.dll
